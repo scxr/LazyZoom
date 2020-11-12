@@ -47,5 +47,3 @@ for i in range(int(until_meeting), 0, -1):
     print(f"Joining meeting in {i} seconds", "\r", end="")
 
 attender()
-#94734796249
-#285645
